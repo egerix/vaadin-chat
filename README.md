@@ -1,2 +1,2 @@
-Vaadin Flow - Simple chat
+# Vaadin Flow - Simple chat
 ![](docs/sample.gif)
